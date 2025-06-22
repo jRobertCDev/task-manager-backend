@@ -1,6 +1,6 @@
-# HopTask – Project Management App
+# Task Manager – Project Management App
 
-HopTask is a full-stack project management application developed using the PERN stack (PostgreSQL, Express, React, Node.js). It offers advanced features including user authentication, role-based access control, task lifecycle tracking, team collaboration, and project management.
+Task Manager is a full-stack project management application developed using the MERN stack (MongoDB, Express, React, Node.js). It offers advanced features including user authentication, role-based access control, task lifecycle tracking, team collaboration, and project management.
 
 ## 🚀 Features
 
